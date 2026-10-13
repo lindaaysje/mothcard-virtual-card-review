@@ -161,6 +161,7 @@ Yes.
 **Q: Can I spend in restricted regions?**
 
 Yes.
+Related reading on the MothCard blog: [What you're actually trading away when someone else pays for your subscription](https://www.mothcard.io/blog/risks-of-letting-someone-else-pay-for-your-subscription/).
 
 ---
 
